@@ -11,6 +11,7 @@ Por ejemplo, podemos poner un interruptor, polvo de Redstone para conducir la se
 ![Ejemplo de Redstone](images/switchon.gif)
 
 Con la Redstone se pueden hacer [puertas lógicas]( http://minecraft.gamepedia.com/Tutorials/Basic_logic_gates) y a partir de ahí se abre todo un mundo de posibilidades. Algunos ejemplos:
+
 * [Minecraft Redstone Computer Word Processor](https://www.youtube.com/watch?v=g_ULtNYRCbg)
 * [Redstone RAM - Random Access Memory](https://www.youtube.com/watch?v=dBKdibZvb_E)
 
@@ -38,7 +39,7 @@ Una vez sabemos esto podemos ver cómo se construye y cómo funciona el McPollo.
 
 Básicamente en la parte superior tenemos pollos que tienen debajo unos hoppers que llevan todos los huevos que ponen hacía el dispensador. En el dispensador hay un pequeño circuito que cuando detecta un ítem le da un pulso de Redstone para que lo lance.
 
-Con eso conseguimos lanzar todos los huevos que ponen los pollos. Los lanzan a un hueco de medio bloque que es donde esperarán los pollos a hacerse grandes. Cuando crezcan la lava que tiene encima los quemarán y con otro Hopper almacenaremos el pollo cocinado en un cofre.
+Con eso conseguimos lanzar todos los huevos que ponen los pollos. Los lanzan a un hueco de medio bloque que es donde esperarán los pollos a hacerse grandes. Cuando crezcan la lava que tiene encima los quemarán y con otro hopper almacenaremos el pollo cocinado en un cofre.
 
 
 Este concepto lo podemos adaptar a nuestro gusto. 
@@ -66,17 +67,17 @@ En mi caso y combinado con unos filtros puedo llegar a almacenar una gran cantid
 ## Filtro de ítems
 En Minecraft no existe un objeto que nos ayude a filtrar lo ítems cuando trabajamos con hoppers y nos permitan separarlos para almacenarlos en diferentes cofres. Pero eso no ha impedido que la comunidad de Minecraft descubra la manera de cómo hacerlo.
 
-![SAM Minecraftia](images/filter_sample.jpg)
+![Ejemplo de filtro](images/filter_sample.jpg)
 
 Los ítems viajan por la fila de hoppers superior. Cuando se encuentra con otro hopper debajo intenta dejar caer los ítems al hopper de abajo. 
 
-![SAM Minecraftia](images/filter_sample_2.jpg)
+![Hopper](images/filter_sample_2.jpg)
 
 Si llenamos todos los slots del hopper de abajo con el ítem que queremos filtrar solo los ítems que nos interesan bajarán por ese hopper. Pero necesitamos una forma de bloquear el hopper para que no se vacíen todos los slots. Para ello tenemos el circuito que vemos detrás. Con un comparador hacemos que cuando haya más de 22 ítems en el hopper apague la antorcha de Redstone de abajo y desbloquee el hopper para dejar pasar un ítem. 
 
 Gracias a esto podemos dejar todos nuestros ítems en un cofre y hacer que se vayan ordenando.
 
-![SAM Minecraftia](images/filter_minecraftia.jpg)
+![Filtro en Minecraftia](images/filter_minecraftia.jpg)
 
 ## ¿Sigues sin pensar que se puede hacer ingeniería en Minecraft?
 Hasta ahora hemos visto algunos mecanismos que trabajan con la Redstone. Pero Minecraft técnico va un poco más allá. Ahora veremos algunos ejemplos de cosas que se pueden hacer aprovechándonos de cómo funciona Minecraft.
@@ -90,7 +91,7 @@ La granja de hierro se ayuda de cómo funciona Minecraft. Cuando Minecraft detec
 
 La granja que tengo yo en mi mundo es muy sencilla. Basta con construir la siguiente estructura.
 
-![Golem de hierro](images/iron_farm.jpg)
+![Granja de hierro](images/iron_farm.jpg)
 
 Podemos ver que hay una gran cantidad de puertas con techo y 10 aldeanos. Con esto Minecraft ya es capaz de hacer aparecer Golems de Hierro. Éstos aparecen en la corriente de agua que los lleva a la lava donde mueren y dejar caer el hierro y las flores a un cofre.
 
@@ -98,7 +99,7 @@ Mi granja de hierro produce unos 90 de hierro por hora. Para compensar lo poco e
 
 Los Spawn Chuncks son una porción del mundo de Minecraft donde apareces por primera vez al crear el mundo. Estos trozos de terreno siempre están cargados, aunque estés muy lejos de ahí. Por tanto, al estar siempre en ejecución siempre estoy generando hierro.
 
-![Golem de hierro](images/4_iron_farm.jpg)
+![Spawn Chuncks](images/4_iron_farm.jpg)
 
 Por último, uní todas las granjas con unas vagonetas que me transportan el hierro a un solo sitio. Con esto nunca más tendrás que ir a buscar hierro a la mina.
 
@@ -126,16 +127,18 @@ La granja de Enderman hay que hacerla en el The End. El The End es una dimensió
 
 Lo que vamos a hacer es alejarnos más de 128 bloques de la isla para hacer nosotros nuestra propia zona de aparición de Endermen. Al alejarnos esa distancia de la isla nos aseguramos que solo aparezcan Endermen en las zonas que habilitemos para ello. En este caso será una plataforma a una cierta distancia de suelo. 
 
-![Granja de Guardianes en uso](images/the_end.jpg)
+![The End](images/the_end.JPG)
 
 **Nota:** En la imagen vemos dos versiones diferentes de una granja de Endermen.
 
 Dejaremos unos huecos para que los Endermen puedan caer y pondremos un Endermite en medio. Los Endermen se siente atraídos por el Endermite y al ir a por él caen por los huecos que hemos dejado, se hacen daño por caída y se quedan a un solo golpe de morir.
 
-![Granja de Guardianes en uso](images/enderman_farm.jpg)
+![Granja de Enderman en uso](images/enderman_farm.jpg)
 
 Así solo tenemos que darles un solo golpe para matarlos y conseguir experiencia.
 
 ## En definitiva
 
 Si tuviera que contar todas las cosas que he hecho en Minecraft y las que me quedan por hacer no acabaríamos nunca. Pero con esto la gente que no conoce esta faceta de Minecraft se puede hacer una idea de todo lo que da de sí. Y sí, se puede hacer ingeniería en Minecraft.
+
+¡Nos vemos en el futuro!
