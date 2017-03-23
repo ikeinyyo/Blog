@@ -1,11 +1,11 @@
-¡Hola a todos! En este post vamos a ver cómo hacer un tipo no nulable. Todos hemos utilizado alguna vez tipos que no adminten nulos como por ejemplo `DateTime` pero no muchas veces hemos necesitado **crear un tipo no nullable**. Es un problema al que me acabo de enfrentar por primera vez desde que programo en C#.
+¡Hola a todos! En este post vamos a ver cómo hacer un tipo no nulable. Todos hemos utilizado alguna vez tipos que no admiten nulos como por ejemplo `DateTime` pero no muchas veces hemos necesitado **crear un tipo no nulable**. Es un problema al que me acabo de enfrentar por primera vez desde que programo en C#.
 
 
 ## ¿Cómo hacemos un objeto no nulable?
 
-Estoy trabjando en un proyecto en el que me interesa que un objeto no pueda ser nulo.
+Estoy trabajando en un proyecto en el que me interesa que un objeto no pueda ser nulo.
 
-Como no sabía como hacerlo me puse a buscar en internet cómo hacer que un tipo no admita nulos. Encontré [esta](http://stackoverflow.com/questions/6365459/create-non-nullable-types-in-c-sharp) respuesta en StackOverflow.
+Como no sabía como hacerlo me puse a buscar en Internet cómo hacer que un tipo no admita nulos. Encontré [esta](http://stackoverflow.com/questions/6365459/create-non-nullable-types-in-c-sharp) respuesta en StackOverflow.
 
 ![Respuesta de StackOverflow](images/answer.jpg)
 
@@ -23,7 +23,7 @@ public struct DateTime : IComparable, IFormattable, IConvertible, ISerializable,
 public struct Int32 : IComparable, IFormattable, IConvertible, IComparable<Int32>, IEquatable<Int32> { ... }
 ``` 
 
-Efecticamente los tipos `TimeSpan`, `DateTime` y `int` realmente son structs.
+Efectivamente los tipos `TimeSpan`, `DateTime` y `int` realmente son structs.
 
 ## Un pequeño ejemplo
 
@@ -59,7 +59,7 @@ public struct Person
 }
 ```
 
-Como podemos ver usar un struct no nos impide tener constructor, propiedades y métodos. La única limitacion que tenemos en este aspecto es que todas las propiedades se tienen que asignar antes de que el objeto termine de construirse. Es decir que el contructor debe asignar valor a todas las propiedades.
+Como podemos ver usar un struct no nos impide tener constructor, propiedades y métodos. La única limitación que tenemos en este aspecto es que todas las propiedades se tienen que asignar antes de que el objeto termine de construirse. Es decir que el constructor debe asignar valor a todas las propiedades.
 
 **Nota**: Ojo, no todas las propiedades tienen que asignarse a través de un parámetro en el constructor, podemos usar valores por defecto. 
 
@@ -87,7 +87,7 @@ public Person(string name, string surname)
 
 Una vez tenemos nuestro tipo ya podemos usarlo. En la práctica vamos a tener la misma experiencia que al trabajar con una clase, salvo que no vamos a poder nular el objeto. 
 
-**Advertencia:** Es importante tener en cuenta que cuando se pasen objetos de nuestro tipo por parámetro vamos a pasarlos **por valor no por referencia** con todo lo que eso conlleva. Podrían surgirnos también algunas complicaciones al trabajar con nuestros objetos por valor. **Hay que tener cuidado con esto**.
+**Advertencia:** Es importante tener en cuenta que cuando se pasen objetos de nuestro tipo por parámetro vamos a pasarlos **por valor no por referencia** con todo lo que eso conlleva. Podrían surgir también algunas complicaciones al trabajar con nuestros objetos por valor. **Hay que tener cuidado con esto**.
 
 Si necesitáramos poder nular el objeto siempre podríamos usar el modificador `?` para convertir de `Person` a `Person?`.
 
