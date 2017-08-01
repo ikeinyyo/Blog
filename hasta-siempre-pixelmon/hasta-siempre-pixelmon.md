@@ -10,13 +10,13 @@ Pixelmon es un mod para Minecraft que nos traía a los Pokémon a un mundo abier
 
 > Los que hemos podido disfrutar de Pixelmon hemos experimentado la sensación de volar sobre nuestro Charizard, bucear con nuestro Gyarados o surfear sobre Lapras.
 
-![Pixemon](images/pixelmon.jpg)
-
 No solo hemos podido disfrutar de los Pokémon, sino que también hemos podido fabricar nuestras propias Pokéballs, el PC, la máquina de intercambios, etc... Es decir, nos ha aportado nuevas mecánicas a Minecraft.
 
 Las Pokéballs se construían gracias a los *bonguris* que teníamos que cultivar. Teníamos que *craftear* el PC para poder almacenar Pokémon. También la máquina de curación de los Pokémon para recuperar sus PSs.
 
 Además de los nuevos ítems y *crafteos* Pixelmon incluía nuevas estructuras en la generación del mundo como centros Pokémon, gimnasios, tiendas, altares para las aves legendarias...
+
+![Pixemon](images/pixelmon.jpg)
 
 Explorando el mundo podíamos encontrar entrenadores, vendedores, tutor de movimientos y otros NPCs que incluía el mod. Además, podíamos encontrar Pokémon especiales, llamados *boss* que nos daban una buena recompensa si conseguíamos derrotarlos. También hemos disfrutado de la posibilidad de capturar Pokémon Legendarios.
 
