@@ -1,9 +1,6 @@
-# Acerca de mí
+# Sobre mí...
 
-[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/maktub82)
-[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/maktub82)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/sergiogallardosales/)
-[![LinkedIn](https://img.shields.io/badge/Colaborando-No%20Country%20for%20Geeks-orange.svg)](http://www.nocountryforgeeks.com/author/gallardo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue.svg)](https://www.linkedin.com/in/sergiogallardosales/)[![No Country for Geeks](https://img.shields.io/badge/Colaborando-No%20Country%20for%20Geeks-orange.svg)](http://www.nocountryforgeeks.com/author/gallardo)[![Twitter Follow](https://img.shields.io/twitter/follow/espadrine.svg?style=social&label=Follow)](https://twitter.com/maktub82)[![GitHub followers](https://img.shields.io/github/followers/espadrine.svg?style=social&label=Follow)](https://github.com/maktub82)
 
 Me llamo Sergio Gallardo y actualmente estoy trabajando en Plain Concepts como Windows Platform Developer.
 
@@ -38,3 +35,5 @@ Pese a que he gestionado bastantes proyectos no tengo una experiencia dilatada c
 ## Nuevos horizontes
 
 Pese a que siempre he trabajado con .NET y sobre la plataforma Microsoft ahora estoy **ampliando horizontes con React y React Native para poder ofrecer soluciones completas con Web y aplicaciones multiplataforma** con un solo desarrollo. Aunque tengo mucha menos experiencia no tendría problema en trabajar con alguna otra tecnología como React y seguir creciendo.
+
+Sergio Gallardo Sales
