@@ -56,7 +56,7 @@ gnewb() {
 ```
 En este caso simplemente nos ahorramos escribir todo lo de `git checkout -b` y el prefijo de la rama. Sencillo, pero nos ahorra tiempo.
 
-## gbclean
+## gclean
 
 Cuando termino de trabajar con una rama y se completa la Pull Request la rama remota se borra, pero sigo teniendo mi rama en local. 
 
