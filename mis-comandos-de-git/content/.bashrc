@@ -124,3 +124,20 @@ gtree() {
 gcache() {
 	git clean -dfx;
 }
+
+guser() {
+  case $1 in
+    plain)
+      git config user.email "sgallardo@plainconcepts.com";
+      git config user.name "Sergio Gallardo Sales";
+      ;;
+    github)
+      git config user.email "gallardo91_@hotmail.com";
+      git config user.name "maktub82";
+      ;;
+    vsts)
+      git config user.email "gallardo91_@hotmail.com";
+      git config user.name "Sergio Gallardo Sales";
+      ;;
+  esac
+}
