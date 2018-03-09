@@ -162,6 +162,47 @@ He conocido nuevos y saludables alimentos como los frutos del bosque, el salmón
 
 ## Ejercicio
 
+El otro aspecto importante es el ejercicio. Ya intenté ir al gimnasio en el pasado. Pero se convirtió en una obligación y eso hizo que no fuera sostenible en el tiempo.
+
+Voy a parecer un poco pesado, pero insisto: **lo que hagáis tiene que sostenible en el tiempo.**
+
+En mi caso no soy muy fan de los gimnasios. Por lo que he decidido salir a caminar... porque correr es de cobardes :)
+
+Casi todos los días salgo a caminar. Los días que tengo cosas que hacer y no puedo salir a pasear me vuelvo a casa caminando desde el trabajo (unos 6km).
+
+El resto de días intento salir con el perro y hacer entre 6Km y 8Km.
+
+**Caminar es el único deporte que hago, pero no todo acaba ahí.**
+
+> Todo suma
+
+**Como todo suma, he cambiado mis hábitos.** En el metro ya no uso las escaleras mecánicas, en casa no utilizo el ascensor, voy a los sitios caminando, los paseos nocturnos con el perro son más largos... 
+
+> Estar más tiempo activo
+
+La idea general es **moverse más a lo largo del día**. Estar más tiempo activo. De poco sirve una hora de ejercicio si te tiras 23 de sentado.
+
+### Fit Bit Charge 2
+
+Algo que me ha motivado mucho a cumplir y superar mis objetivos ha sido la Fit Bit. Esta pulsera **hace un seguimiento de tus pasos y de tu ejercicio físico**.
+
+Esto me ha ayudado a estar más activo e intentar llegar todos los días a los 10 000 pasos que me marqué como objetivo. 
+
+Sobre todo **te ayuda a identificar cuando has tenido un día poco activo y *obligarte* a salir de casa** a dar un paseo. Si todos los días haces más de 10 000 pasos y son las 19:00 y llevas 3000 pasos es que algo ha pasado.
+
+> Hacer explícito lo implícito.
+
+Además tiene un componente de *gamificación* de los datos. Te anima a superarte, te premia con insignias al conseguir ciertas metas. 
+
+La verdad es que es satisfactorio ver como vas mejorando tus marcas. Ayuda mucho a seguir adelante.
+
+### Samsung Gear Fit 2 Pro
+
+Con el tiempo y por incompatibilidad con mi actual teléfono móvil he cambiado a esta nueva pulsera.
+
+Es bastante más completa y más profesional Aunque **para mí, la Fit Bit Charge 2 es la ideal para empezar**: hace lo que tiene que hacer y lo hace muy bien.
+
+
 
 
 
