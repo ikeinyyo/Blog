@@ -202,6 +202,21 @@ Con el tiempo y por incompatibilidad con mi actual teléfono móvil he cambiado 
 
 Es bastante más completa y más profesional Aunque **para mí, la Fit Bit Charge 2 es la ideal para empezar**: hace lo que tiene que hacer y lo hace muy bien.
 
+## Ser Fet: mi experiencia resumida
+
+La verdad es que para mí **ser Fet es cambiar tu vida y ser más activo**.
+
+**Mejorar tu alimentación**, eliminando lo máximo posible la comida procesada y comer más variado y alimentos de verdad. Comer fruta e intentar hacer las 5 comidas diarias.
+
+En la parte del ejercicio: **salir más a la calle, cambiar los hábitos y saber que todo suma**. Ir a los sitios caminando, dejar de usar el ascensor... 
+
+Y sobre todo querer cambiar, querer estar más sano. **El objetivo principal no debería ser perder peso sino estar más sano**. 
+
+Yo he conseguido convertirme en un chico Fet y estoy super orgulloso de haberlo podido conseguir. 
+
+**Me siento bien con lo que hago y con lo que como** y por eso sé que es algo que va a poder ser **sostenible en el tiempo**.
+
+Un saludo y ¡nos vemos en el futuro!
 
 
 
